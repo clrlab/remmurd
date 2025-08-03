@@ -4,11 +4,6 @@
     <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
     <title>Link - Remmurd the drummeR</title>
     <meta http-equiv="Content-Language" content="English" />
-    <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/site.webmanifest" />
     <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
   </head>
   <body>
